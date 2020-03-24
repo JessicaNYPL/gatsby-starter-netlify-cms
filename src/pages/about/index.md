@@ -1,19 +1,30 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: About NYPL Digital Blog
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### About The New York Public Library
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+The New York Public Library has been an essential provider of free books, information, ideas, and education for all New Yorkers for more than 100 years. Founded in 1895, NYPL is the nation’s largest public library system, featuring a unique combination of 88 neighborhood branches and four scholarly research centers, bringing together an extraordinary richness of resources and opportunities available to all.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### About NYPL Digital
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+To meet the needs of the Library, and to develop best-in-class products and services, NYPL Digital is comprised of several smaller teams with diverse skill sets.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+* Applications Development
+* Product Development
+* User Experience, Design, and Accessibility
+* Digital Policy
+* Digital Imaging Unit
+* Metadata Services Unit
+
+### About the NYPL Digital Blog
+
+This blog is where you can learn more about the current and ongoing projects from the Digital team at NYPL, as well as engage in a dialogue regarding NYPL’s perspective on Digital Policy.
+
+### Joining NYPL Digital
+
+[Click here](https://jobs-nypl.icims.com/jobs/search?ss=1&searchCategory=11045) to see jobs within the Digital team. 
+
+### Shared Repos
+
+TBD
