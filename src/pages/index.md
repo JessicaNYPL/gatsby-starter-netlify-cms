@@ -6,13 +6,15 @@ heading: NYPL Digital Blog Test
 subheading: 'Supporting technical conversations '
 mainpitch:
   title: Why an NYPL Digital Blog?
-  description: Lorem ipsum
+  description: Why an NYPL Digital Blog?
 description: >-
   To meet the needs of the Library, and to develop best-in-class products and
   services, NYPL Digital is comprised of several smaller teams with diverse
   skill sets.
 intro:
-  blurbs: []
+  blurbs:
+    - image: /img/rectangle-478.png
+      text: QA
   heading: Who we are
   description: 'Meet the teams:'
 main:
