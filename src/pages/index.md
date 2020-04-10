@@ -2,8 +2,8 @@
 templateKey: index-page
 title: NYPL Digital Blog Test
 image: /img/rectangle-478.png
-heading: NYPL Digital Blog Test
-subheading: 'Supporting technical conversations '
+heading: NYPL Digital Blog
+subheading: 'Supporting technical conversations'
 mainpitch:
   title: Why an NYPL Digital Blog?
   description: Why an NYPL Digital Blog?
