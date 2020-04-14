@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: NYPL Digital Blog Test
+title: New York Public Library Digital Blog
 image: /img/rectangle-478.png
 heading: NYPL Digital Blog
-subheading: 'Supporting technical conversations'
+subheading: The Digital Department at the New York Public Library
 mainpitch:
   title: Why an NYPL Digital Blog?
   description: Why an NYPL Digital Blog?
