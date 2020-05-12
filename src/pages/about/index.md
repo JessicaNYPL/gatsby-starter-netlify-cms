@@ -27,4 +27,4 @@ This blog is where you can learn more about the current and ongoing projects fro
 
 ### Shared Repos
 
-TBD
+If you'd like to explore our shared repos, please email us at _digital@nypl.org_ to request more information.
