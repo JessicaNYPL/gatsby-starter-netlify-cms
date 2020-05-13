@@ -42,4 +42,8 @@ Her advice is a cornerstone of product: Stephen Covey’s 4 quadrants to help vi
 
 **Mind Mobile**
 
-****
+Sean Redmond is in charge of our digital research services. With an upcoming public beta launch, Sean shares his experience needing to refocus on mobile use cases after a desktop-first plan.
+
+> _We had focused on the desktop experience, researchers mostly don't research on phones and this seemed like a legitimate use case, but now we have to work in the new reality_
+
+Sean calls out that unforeseen mobile use cases for institutions are generally what causes stress, anxiety, and bugs, while also being the easiest to deprioritize. Now, all of Product's team is keeping a close eye on mobile components.
