@@ -47,3 +47,29 @@ Sean Redmond is in charge of our digital research services. With an upcoming pub
 > _We had focused on the desktop experience, researchers mostly don't research on phones and this seemed like a legitimate use case, but now we have to work in the new reality_
 
 Sean calls out that unforeseen mobile use cases for institutions are generally what causes stress, anxiety, and bugs, while also being the easiest to deprioritize. Now, all of Product's team is keeping a close eye on mobile components.
+
+**Prioritization**
+
+No post about PM would be done without talking about prioritization. In this case, Courtney McGee in charge of our websites tells us about the changing priorities during the closure. 
+
+> _Almost any one thing can be done, but all of the things can’t be, we have to work to offer creative options and viable alternatives, with the amount of effort put in guided by the level of priority of the request_
+
+How to tackle this is similar to Lana's experience: situate requests within matrix of prioritization schemes, for initiatives across the library and deliverability.
+
+**Maintaining Momentum**
+
+Miguel Rayos is a cross-portfolio PM who works on special projects. His longterm projects bring perspectives and he shares more about how to help colleagues during challenging times. 
+
+> _Product can act as a motor to maintain momentum in projects providing stability and continuity._
+
+He shares that the work required to make a project a source of stability is tedious, but well worth the effort: pre-meeting agendas (ahead of time not 30 mins before!), recap emails, shared notes, availability across slack/email/g-chat, and timelines as accountability mechanisms. 
+
+**Finally, Empathy**
+
+The Product team's leader, Jessica want, emphasizes that Product's responsibility is to be empathetic, with patrons, users, coworkers, and ourselves. 
+
+> _Give everyone more room to breathe._
+
+
+
+The Product team at NYPL works closely with teams across the library to support everyone in these unprecedented times.
