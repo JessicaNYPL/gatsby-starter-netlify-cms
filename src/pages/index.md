@@ -12,9 +12,7 @@ description: >-
   services, NYPL Digital is comprised of several smaller teams with diverse
   skill sets.
 intro:
-  blurbs:
-    - image: /img/rectangle-478.png
-      text: QA
+  blurbs: []
   heading: Who we are
   description: 'Meet the teams:'
 main:
