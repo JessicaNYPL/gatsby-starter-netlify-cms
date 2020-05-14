@@ -13,8 +13,8 @@ description: >-
   skill sets.
 intro:
   blurbs:
-    - image: /img/rectangle-478.png
-      text: QA
+    - image: 
+      text: 
   heading: Who we are
   description: 'Meet the teams:'
 main:
