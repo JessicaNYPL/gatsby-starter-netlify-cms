@@ -11,12 +11,12 @@ description: >-
   To meet the needs of the Library, and to develop best-in-class products and
   services, NYPL Digital is comprised of several smaller teams with diverse
   skill sets.
-intro:
-  blurbs:
-    - image: 
-      text: 
-  heading: Who we are
-  description: 'Meet the teams:'
+# intro:
+#   blurbs:
+#     - image: 
+#       text: 
+#   heading: Who we are
+#   description: 'Meet the teams:'
 main:
   heading: Great coffee with no compromises
   description: >
