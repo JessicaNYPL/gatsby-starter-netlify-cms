@@ -6,17 +6,15 @@ heading: NYPL Digital Blog
 subheading: The Digital Department at the New York Public Library
 mainpitch:
   title: Why an NYPL Digital Blog?
-  description: Why an NYPL Digital Blog?
+  description: >-
+    Below, you'll find NYPL's Digital team's blog posts on topics ranging from
+    product management, patrono privacy, e-reading and systems development. 
 description: >-
-  To meet the needs of the Library, and to develop best-in-class products and
-  services, NYPL Digital is comprised of several smaller teams with diverse
-  skill sets.
-# intro:
-#   blurbs:
-#     - image: 
-#       text: 
-#   heading: Who we are
-#   description: 'Meet the teams:'
+  In this blog, the digital team shares more about our work, projects, and
+  digital philosophy.
+intro:
+  heading: ' '
+  description: ' '
 main:
   heading: Great coffee with no compromises
   description: >
