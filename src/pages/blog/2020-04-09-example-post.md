@@ -6,7 +6,7 @@ description: >-
   The New York Public Library's Product team shares some of their focus to
   support teams during the temporary closure during COVID-19.
 featuredpost: true
-featuredimage: /img/rectangle-478.png
+featuredimage: /img/npyl-exterior-5c59da02c9e77c0001a41bbe.jpg
 tags:
   - product
   - pm
